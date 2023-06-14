@@ -15,8 +15,8 @@
 
 - 💬 Ask me about **Python, Django, FOSS, Dinkar, Caligari**
 
-- 📫 How to reach me **divya.patil@gmail.com**
-
+<!-- - 📫 How to reach me **divya.patil@gmail.com**
+ -->
 - ❓ Random Question **Ever wondered what might be your Rosebud?**
 
 <h3 align="left">Connect with me:</h3>
