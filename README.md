@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [News Feeder](https://github.com/predystopic-dev/News-Feeder)
 
-- 🌱 I’m currently learning **Machine Learning, Math, SQL**
+- 🌱 I’m currently learning **Machine Learning, Math, SQL, and a bajillion other things**
 
 - 🤝 I’m looking for help with [News Feeder](https://github.com/predystopic-dev/News-Feeder)
 
