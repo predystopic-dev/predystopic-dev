@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divya Patil</h1>
+<h1 align="center">Hi 👋 I'm Divya Patil</h1>
 <h3 align="center">A Backend Developer and aspiring Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=predystopic-dev&label=Profile%20views&color=0e75b6&style=flat" alt="predystopic-dev" /> </p>
