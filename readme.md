@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Divya Patil</h1>
+<h1 align="center">Hi 👋 I'm predystopic-dev</h1>
 <h3 align="center">A Backend Developer and aspiring Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=predystopic-dev&label=Profile%20views&color=0e75b6&style=flat" alt="predystopic-dev" /> </p>
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://predystopic-dev.github.io/blogs/](https://predystopic-dev.github.io/blogs/)
 
-- 💬 Ask me about **Python, Django, FOSS, Dinkar, Caligari**
+- 💬 Ask me about **Django, Data Analysis, FOSS, Dinkar, Faiz, Hindustani**
 
 <!-- - 📫 How to reach me **divya.patil@gmail.com**
  -->
