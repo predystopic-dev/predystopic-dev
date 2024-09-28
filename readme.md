@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [News Feeder](https://github.com/predystopic-dev/News-Feeder)
 
-- 🌱 I’m currently learning **Machine Learning, Math, SQL, and a bajillion other things**
+- 🌱 I’m currently learning System Design
 
-- 🤝 I’m looking for help with [News Feeder](https://github.com/predystopic-dev/News-Feeder)
+- 🤝 I’m not looking for help with [News Feeder](https://github.com/predystopic-dev/News-Feeder)
 
 - 👨‍💻 All of my projects are available at [https://predystopic-dev.github.io/Projects/](https://predystopic-dev.github.io/Projects/)
 
-- 📝 I regularly write articles on [https://predystopic-dev.github.io/blogs/](https://predystopic-dev.github.io/blogs/)
+- 📝 I ~~regularly~~ never write articles on [https://predystopic-dev.github.io/blogs/](https://predystopic-dev.github.io/blogs/)
 
 - 💬 Ask me about **Django, Data Analysis, FOSS, Dinkar, Faiz, Hindustani**
 
