@@ -6,4 +6,5 @@ Not Much to write here,
 I am learning and exploring bunch of stuff though, mainly Functional Programming (LISP, Haskell, Clojure etc.), Rust, and dabbling in Game Dev.
 <br><br>
 You can also checkout our (IPL Chatbot)[https://github.com/predystopic-dev/ipl-chatbot]
+<br><br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=predystopic-dev&show_icons=true&locale=en" alt="predystopic-dev" /></p>
